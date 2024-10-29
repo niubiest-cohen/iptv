@@ -26,7 +26,7 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
 #EXTINF:-1 tvg-id="春晚2024" tvg-name="春晚2024" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•体育「IPV6」",晴彩竞技「IPV6」
-http://m.m3u8.wifiwx.com:80/live/wifiwx-239.m3u8
+https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png" group-title="百视通",CCTV3
 http://125.74.6.39:8088/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="百视通",五星体育
@@ -371,3 +371,793 @@ https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=8bca81250fd7df3b633
 https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cctvamerica" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv4.png" group-title="电视伴音",CCTV-4 (美洲)
 https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅰ」",咪咕直播4K Ⅰ「IPV4」
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「网·Ⅱ」",咪咕直播4K Ⅰ「IPV4」
+http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「全球总决赛」英雄联盟 4K
+http://live.iill.top/huya.php?id=18524915
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「全球总决赛」英雄联盟 4K
+http://live.iill.top/bilibili.php?id=10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
+http://live.iill.top/bilibili.php?id=21622811
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
+http://live.iill.top/huya.php?id=483917
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
+http://live.iill.top/bilibili.php?id=6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
+http://live.iill.top/huya.php?id=660000
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟚
+http://live.iill.top/huya.php?id=660001
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟙
+http://live.iill.top/douyu.php?id=288016
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟚
+http://live.iill.top/douyu.php?id=424559
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟•手游
+http://live.iill.top/bilibili.php?id=23138275
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟙
+http://live.iill.top/bilibili.php?id=55
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟚
+http://live.iill.top/bilibili.php?id=21654762
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟙
+http://live.iill.top/huya.php?id=660002
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟚
+http://live.iill.top/huya.php?id=660164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟙
+http://live.iill.top/douyu.php?id=1863767
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟚
+http://live.iill.top/douyu.php?id=1984839
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」绝地求生
+http://live.iill.top/bilibili.php?id=98
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟙
+http://live.iill.top/huya.php?id=660004
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟚
+http://live.iill.top/huya.php?id=660005
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地求生
+http://live.iill.top/douyu.php?id=100
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
+http://live.iill.top/huya.php?id=660006
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
+http://live.iill.top/douyu.php?id=999
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
+http://live.iill.top/huya.php?id=660579
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
+http://live.iill.top/douyu.php?id=9715241
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」DOTA2
+http://live.iill.top/huya.php?id=660118
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」DOTA2
+http://live.iill.top/douyu.php?id=3811559
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」云顶之弈
+http://live.iill.top/douyu.php?id=522423
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」永劫无间
+http://live.iill.top/huya.php?id=660115
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」永劫无间
+http://live.iill.top/huya.php?id=9662891
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」使命召唤•手游
+http://live.iill.top/bilibili.php?id=22741849
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」使命召唤•手游
+http://live.iill.top/huya.php?id=11718629
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」使命召唤•手游
+http://live.iill.top/douyu.php?id=9223245
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线
+http://live.iill.top/huya.php?id=660101
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟙
+http://live.iill.top/douyu.php?id=605964
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟚
+http://live.iill.top/douyu.php?id=5388537
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线•手游
+http://live.iill.top/huya.php?id=660102
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」第五人格
+http://live.iill.top/bilibili.php?id=5555
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」第五人格
+http://live.iill.top/huya.php?id=idvesports
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」第五人格 
+http://live.iill.top/douyu.php?id=3226194
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」逆战
+http://live.iill.top/huya.php?id=nsl2021
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」无畏契约 
+http://live.iill.top/bilibili.php?id=22908869
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」无畏契约 
+http://live.iill.top/huya.php?id=660679
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」无畏契约 
+http://live.iill.top/douyu.php?id=4585645
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」原神
+http://live.iill.top/douyu.php?id=10853239
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」QQ飞车•手游
+http://live.iill.top/bilibili.php?id=21743919
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」QQ飞车•手游
+http://live.iill.top/douyu.php?id=5040227
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」梦幻西游·手游
+http://live.iill.top/huya.php?id=9163712
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」街霸
+http://live.iill.top/huya.php?id=11437
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」JJ斗地主
+http://live.iill.top/bilibili.php?id=22021983
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」JJ斗地主
+http://live.iill.top/douyu.php?id=488743
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」我的世界
+http://live.iill.top/douyu.php?id=738878
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」FIFA
+http://live.iill.top/douyu.php?id=7692166
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」火影忍者
+http://live.iill.top/douyu.php?id=1997723
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车
+http://live.iill.top/douyu.php?id=7722576
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车•手游
+http://live.iill.top/douyu.php?id=6672862
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙
+http://live.iill.top/huya.php?id=23740156
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚
+http://live.iill.top/huya.php?id=23749096
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟛
+http://live.iill.top/huya.php?id=23735126
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟜
+http://live.iill.top/huya.php?id=23903123
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟝
+http://live.iill.top/huya.php?id=23734169
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟞
+http://live.iill.top/huya.php?id=23863804
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟟
+http://live.iill.top/huya.php?id=23865080
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟠
+http://live.iill.top/huya.php?id=23864973
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟡
+http://live.iill.top/huya.php?id=23903130
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟘
+http://live.iill.top/huya.php?id=23860039
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟙
+http://live.iill.top/huya.php?id=23903183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟚
+http://live.iill.top/huya.php?id=23903196
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟛
+http://live.iill.top/huya.php?id=23728674
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟜
+http://live.iill.top/huya.php?id=23865036
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟝
+http://live.iill.top/huya.php?id=23829543
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟞
+http://live.iill.top/huya.php?id=23865161
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟟
+http://live.iill.top/huya.php?id=23865058
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟠
+http://live.iill.top/huya.php?id=23824164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟙𝟡
+http://live.iill.top/huya.php?id=23863796
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟘
+http://live.iill.top/huya.php?id=23734183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟙
+http://live.iill.top/huya.php?id=23728660
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟚
+http://live.iill.top/huya.php?id=23865142
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟛
+http://live.iill.top/huya.php?id=23734246
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟜
+http://live.iill.top/huya.php?id=23865171
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟝
+http://live.iill.top/huya.php?id=23734256
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="•埋堆「轮播」",埋堆堆 𝟚𝟞
+http://live.iill.top/huya.php?id=23749083
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐石榴「音乐」
+http://live.iill.top/huya.php?id=17091681
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",音乐速递「音乐」
+http://live.iill.top/huya.php?id=19439762
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",治愈•放松「音乐」
+http://live.iill.top/huya.php?id=21241811
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",阅读•学习「音乐」
+http://live.iill.top/huya.php?id=21241813
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•1「解说」
+http://live.iill.top/huya.php?id=21277391
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电视剧•2「解说」
+http://live.iill.top/huya.php?id=25018873
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•1「解说」
+http://live.iill.top/huya.php?id=20289754
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•2「解说」
+http://live.iill.top/huya.php?id=24983280
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",电影•3「解说」
+http://live.iill.top/huya.php?id=24396428
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",动漫•1「解说」
+http://live.iill.top/huya.php?id=19757963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",恐怖电影「解说」
+http://live.iill.top/huya.php?id=23419131
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",漫威「解说」
+http://live.iill.top/huya.php?id=17089779
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",美剧「解说」
+http://live.iill.top/huya.php?id=20488841
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「解说」
+http://live.iill.top/huya.php?id=25650806
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",止戈电影「解说」
+http://live.iill.top/huya.php?id=19863777
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•1「其他」
+http://live.iill.top/huya.php?id=20985858
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",挨饿德•2「其他」
+http://live.iill.top/huya.php?id=17693860
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",互扇巴掌大赛「其他」
+http://live.iill.top/huya.php?id=20072873
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",荒野求生「其他」
+http://live.iill.top/huya.php?id=593667
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",野行者「其他」
+http://live.iill.top/huya.php?id=20072663
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",跳舞「其他」
+http://live.iill.top/huya.php?id=24634408
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",茶啊二中「动画」
+http://live.iill.top/huya.php?id=11213191
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",哆啦A梦「动漫」
+http://live.iill.top/huya.php?id=11601963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",航海王「动漫」
+http://live.iill.top/huya.php?id=16913382
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",七龙珠「动漫」
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",猫和老鼠「动漫」
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•影视「轮播」",中华小当家「动漫」
+http://live.iill.top/huya.php?id=11342413
+#EXTINF:-1 group-title="GITV",CCTV1
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV2
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV3
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV4
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV5
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV6
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV7
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV8
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV9
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV10
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV11
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV12
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-12-HQ/G_CCTV-12-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV13
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV14
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV15
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV16
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV17
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CCTV5+
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",CGTN
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",中国教育1台
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-1-HQ/G_CETV-1-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",中国教育2台
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",中国教育3台
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",中国教育4台
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-4/G_CETV-4.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",湖南卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",东方卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",江苏卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",广东卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",浙江卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",北京卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",深圳卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",天津卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_TIANJIN-HQ/G_TIANJIN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",山东卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",安徽卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",江西卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JIANGXI-HQ/G_JIANGXI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",黑龙江卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",四川卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",贵州卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",湖北卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",辽宁卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",广西卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GUANGXI-HQ/G_GUANGXI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",重庆卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",东南卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",吉林卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",海南卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",云南卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YUNNAN-HQ/G_YUNNAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",河南卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",河北卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",陕西卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SHANXI-HQ/G_SHANXI-HQ.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",甘肃卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_GANSU-HQ/G_GANSU-HQ.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",宁夏卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",西藏卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",新疆卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",内蒙古卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",大湾区卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_NANFANG/G_NANFANG.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",三沙卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",农林卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_NONGLIN/G_NONGLIN.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",延边卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YANBIAN/G_YANBIAN.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",兵团卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",康巴卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_KANGBA/G_KANGBA.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",安多卫视
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ANDUO/G_ANDUO.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",卡酷少儿
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",金鹰卡通
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",优漫卡通
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",哈哈炫动
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",家庭理财
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_JIATINGLC/G_JIATINGLC.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",中华美食
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",天元围棋
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_TIANYUANWQ/G_TIANYUANWQ.m3u8?p=GITV&area=GD_CUCC&$2M
+#EXTINF:-1 group-title="GITV",北京纪实科教
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 group-title="GITV",纪实人文
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8?p=GITV&area=GD_CUCC&$6M
+#EXTINF:-1 group-title="GITV",动物园1
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-101/G_ZOO-101.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园1_2
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-102/G_ZOO-102.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园2
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-201/G_ZOO-201.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园3
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-301/G_ZOO-301.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园4
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-401/G_ZOO-401.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园5
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-501/G_ZOO-501.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园6
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-601/G_ZOO-601.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园7
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-701/G_ZOO-701.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园8
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-801/G_ZOO-801.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="GITV",动物园9
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_ZOO-901/G_ZOO-901.m3u8?p=GITV&area=GD_CUCC&$3M
+#EXTINF:-1 group-title="组播2",CCTV-1 综合[高清]
+http://114.254.89.131:2222/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="陕南",CCTV1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+#EXTINF:-1 group-title="陕南",CCTV5
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="陕南",江苏卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV1HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV1
+http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV2
+http://223.110.245.164/ott.js.chinamobile.com/PLTV/3/224/3221227696/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV3
+http://223.110.242.162:6610/jsyd/live1/G_CCTV-3-MD/G_CCTV-3-MD/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV4
+http://223.110.242.198:6610/jsyd/live1/G_CCTV-4-MD/G_CCTV-4-MD/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV5
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV5+
+http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227631/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV6
+http://223.110.242.156:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",CCTV7
+http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV8
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV9
+http://223.110.242.142:6610/cntv/live1/HD-8000k-1080P-cctv9/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV10
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV11
+http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV13
+http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV14
+http://223.110.242.134:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV15
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV17
+http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CCTV女时尚
+http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",CGTN
+http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228095/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",中国教育1
+http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227560/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",东南卫视
+http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227553/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",北京卫视
+http://223.110.244.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",安徽卫视
+http://223.110.242.158:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",广东卫视
+http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",江苏卫视
+http://223.110.242.133:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",深圳卫视
+http://223.110.244.203:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",湖北卫视
+http://223.110.242.214:6610/gitv/live1/G_HUBEI-CQ/G_HUBEI-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",辽宁卫视
+http://223.110.244.204:6610/gitv/live1/G_LIAONING-CQ/G_LIAONING-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",黑龙江卫视
+http://223.110.244.212:6610/gitv/live1/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ/
+#EXTINF:-1 group-title="限江苏地区H264",云南卫视
+http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",河北卫视
+http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227545/index.m3u8
+#EXTINF:-1 group-title="限江苏地区H264",西藏卫视
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-2
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-3
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-4
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-5
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-6
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-7
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-8
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-9
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-10
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-11
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-12
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-13
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-14
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002032&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-15
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-16
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-17
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-18
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004464&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-19
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-20
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-21
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-22
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006944&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-23
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000007692&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-24
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-25
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-26
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011112&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-27
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-28
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-29
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011763&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-30
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011873&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-31
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012398&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-32
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012450&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-33
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-34
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-35
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-36
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-37
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017389&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-38
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-39
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017997&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-40
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019380&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-41
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-42
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000020168&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-43
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-44
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-45
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024205&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-46
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024691&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-47
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-48
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-49
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027318&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-50
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027638&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-51
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-52
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-53
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-1-4K
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕V6",咪咕直播-2-4K
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",舟山新闻综合
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",磐安新闻综合
+http://hlsv2.quklive.com/live/1626400915947070/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",磐安文化生活
+http://hlsv2.quklive.com/live/1626401163709056/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",武义新闻综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",永康新闻综合
+http://hlsv2.quklive.com/live/1625061424267104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",永康华溪频道
+http://hlsv2.quklive.com/live/1625062755227231/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",平湖新闻综合
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",平湖民生休闲
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",萧山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",余杭综合频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",余杭未来E频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",临平新闻频道
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",余姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",余姚姚江文化
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",嵊泗新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",诸暨新闻综合
+http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",上虞文化影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",海宁新闻综合
+http://live.hndachao.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",兰溪新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",德清文化生活
+http://live.yingxi.tv/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",苍南新闻综合
+http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",洞头综合频道
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",文成综合频道
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",文成二套
+http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",永嘉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",南浔综合频道
+http://pili-live-hls.nanxunfb.com/nanxun/live3002833-0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",普陀新闻综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",鄞州一套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",鄞州二套
+http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",天台和合频道
+http://hlsv2.quklive.com/live/1617072208961931/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",常山新闻综合
+https://hlsv2.quklive.com/live/1621306190044902/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",江山电视台
+http://play-sh.quklive.com/live/1623117710666335.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",开化新闻综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",龙游新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",龙游生活娱乐
+http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",衢江新闻综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",景宁新闻综合
+http://hlsv2.quklive.com/live/1622691799302368/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",景宁文化旅游
+http://hlsv2.quklive.com/live/1626961770231388/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",缙云综合频道
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",龙泉新闻综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",庆元综合频道
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",遂昌综合频道
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",松阳综合频道
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",云和新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",北仑电视台
+http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 tvg-logo="" group-title="江浙沪包邮",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b68fe67.jpg",ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg",ABC News US HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61556780f381e.jpg",BBC World News HD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",BloombergTV HD
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",BloombergTV
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615553ec9a923.jpg",Bloomberg HT HD
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",BloombergTV HD
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615551b6419f6.jpg",Bloomberg TV Asia (Live)
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554efc526e7.jpg",ChannelNewsAsia FHD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615594101c9b1.jpg",Euronews HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld FHD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg",Sky Sports 24 HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615560258b362.jpg",TRT World HD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",ABC News Australiaᴴᴰ
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png",Alhorreya TV
+https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",California: Fresno-Visalia
+https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Baltimore
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CBSN Sacramento
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Charge! USA | HD
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CRACKLE PlexTV | HD
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",CRACKLE XumoTV | HD
+http://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ye3ckSd.png",Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Groovy TV | HD
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 group-title="美国Local听力磨耳朵",HTV 1 Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",HTV 2 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/HasBahCa.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",HTV 2 Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",HTV Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/E6Xlt0T.png",InfoWars - The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/E6Xlt0T.png",InfoWars - The David Knight Show
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/E6Xlt0T.png",InfoWars - War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",iON TV (576p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/WWtFjTd.jpg",kltv
+https://dai2-playlistserver.aws.syncbak.com/playlist/18439558/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQzOTU1OCIsIm1kNSI6IjdjNmM5Yjk5YmMxNjUyMmVhM2E5Y2Q4ZmRiMmUzOThjIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.70BwybOv28vKpy1DlhpYkN8Y18r4ugp-1KXpuVV1mWs
+#EXTINF:-1 group-title="美国Local听力磨耳朵",LeSEA Broadcasting Network (USA)
+http://media1.lesea.com:1935/live/leseaorigin.stream/chunklist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Motorvisison TV | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg",NASA TV 2
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Nothing Scripted
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",PBS | World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",PBS World Channel | HD
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",White Plains Community Media | HD 720p
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/mfJVjpd.jpg",WSVN Fox 7 Miami
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+#EXTINF:-1 group-title="美国Local听力磨耳朵",Wu Tang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo-kodi/tv_ningxia.png" group-title="卫视",宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
